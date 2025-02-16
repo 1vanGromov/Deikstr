@@ -14,6 +14,8 @@
 
 
 Кроме того, можно изучить более детальный способ реализации с использованием программного обеспечения [Visual Studio](https://visualstudio.microsoft.com/ru/downloads).
+> [!WARNING]  
+> Версия языка c# - 8.0
 
 ### Установка
 
@@ -21,7 +23,7 @@
 
 _____________________________________________________________
 ~~~
-git clone (https://github.com/1vanGromov/Deikstr/tree/master)
+git clone https://github.com/1vanGromov/Deikstr/tree/master.git
 ~~~
 _____________________________________________________________
 
