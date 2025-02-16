@@ -1,0 +1,14 @@
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.exe
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.deps.json
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.runtimeconfig.json
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.dll
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.pdb
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.AssemblyInfoInputs.cache
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.AssemblyInfo.cs
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.csproj.CoreCompileInputs.cache
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.dll
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\refint\Deikstra.dll
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.pdb
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.genruntimeconfig.cache
+C:\Users\kkrok\source\repos\Deikstra\Deikstra\obj\Debug\net8.0\ref\Deikstra.dll
